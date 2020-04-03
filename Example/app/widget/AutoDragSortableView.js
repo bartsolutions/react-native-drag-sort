@@ -700,6 +700,8 @@ const styles = StyleSheet.create({
     swipe: {
         flexWrap: 'wrap',
         flexDirection: 'row',
+        paddingLeft: 16.5,
+        paddingRight: 16.5
     },
     item: {
         position: 'absolute',
